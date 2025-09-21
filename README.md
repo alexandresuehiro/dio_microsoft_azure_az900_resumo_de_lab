@@ -5,3 +5,8 @@ Localização de itens dentro da interface do Portal Azure.
 Bastion (Jump Server), VMs, Networking etc
 
 Criação de VMs de acordo com SLA.
+
+
+Criação de Bancos de Dados SQL
+https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
+
