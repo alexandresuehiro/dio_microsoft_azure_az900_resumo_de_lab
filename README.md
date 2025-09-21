@@ -3,3 +3,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 Localização de itens dentro da interface do Portal Azure.
 Bastion (Jump Server), VMs, Networking etc
+
+Criação de VMs de acordo com SLA.
